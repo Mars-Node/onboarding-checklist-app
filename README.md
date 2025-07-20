@@ -1,6 +1,7 @@
 # Onboarding Checklist App
 
 This is a simple Streamlit web app built to automate new hire onboarding checklists based on employee role.
+Access the app here: https://new-hire-checklist-app.streamlit.app/
 
 ## 🔧 Features
 
